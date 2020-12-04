@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Historical Analysis of GDP Contribution from Key Sectors in India
 
-You can use the [editor on GitHub](https://github.com/tejank10/ds200/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[code](https://github.com/tejank10/ds200)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In this work, we do analysis of contribution to India's GDP from different key sectors such as Agriculture, Electricity, Communication, Banking, and Transport. We find that historically the contribution from agriculture sector has been the highest. We observe that the economic activities gre exponentially upon liberalisation of economy in 1991.
+We then analyse the % growth rate of these sectors. In last 10 years, the sectors saw a steady growth till the 2008 economoc crisis, post which some sectors' growth rate started diminishing. Electricity and Communocation saw a major change in its growth during 2010-11, with a drop of more than 20%. When the historical GDP growth is analysed, it is seen that communication and banking sector are the most volatile whereas the transport sector is the least volatile.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tejank10/ds200/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
